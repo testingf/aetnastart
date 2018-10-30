@@ -1,0 +1,8 @@
+AetnaAdminOp.DbModel/bin/
+AetnaAdminOp.DbModel/obj/
+AetnaAdminOp.Importer/bin/
+AetnaAdminOp.Importer/obj/
+AetnaAdminOp.WebApi/bin/
+AetnaAdminOp.WebApi/obj/
+packages/
+.vs/
